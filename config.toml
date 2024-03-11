@@ -1,0 +1,41 @@
+theme = "awesome-identity"
+baseURL = "https://chafux.netlify.app"
+title = "Amine Chafia - Software Developer / Salesforce"
+
+
+## Profile Configurations
+[params.profile]
+  portrait = "/images/profile.png"
+  firstname = "Amine"
+  lastname = "Chafia"
+  title = "software developer / salesforce"
+  bio = """Software developer with experience building both the front-end and back-end of web apps as well as mobile applications [**VR**](https://en.wikipedia.org/wiki/Virtual_reality).
+
+  My passion lies in creating efficient, scalable solutions that empower users and simplify their lives.
+
+  Beyond code, I'm deeply interested in emerging technologies. Whether it's blockchain, machine learning, or cloud-native architectures, I'm always exploring.
+  """
+## Contacts Configurations
+[params.contacts]
+  email = "chafia.amine1@gmail.com"
+  github = "chafux"
+  gitlab = "chafia.amine1"
+  twitter = "AmineIchaf"
+  linkedin = "amine-chafia"
+  stackoverflow = "23198835"
+
+
+## Actions Configurations
+[params]
+actions = [
+  {name = "Review my cv", url="xxxx"},
+  {name = "ask me anything", url="xxx"},
+  {name = "buy me a coffee", url="xxx"}
+]
+
+
+
+## Footer Configurations
+[params.footer]
+  copyright = "© 2023 Chafia amine. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  poweredBy = true
