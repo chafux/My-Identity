@@ -30,7 +30,7 @@ title = "Amine Chafia - Software Developer / Salesforce"
 actions = [
   {name = "Review my cv", url="xxxx"},
   {name = "ask me anything", url="xxx"},
-  {name = "buy me a coffee", url="xxx"}
+  {name = "Visit my blog", url="xxx"}
 ]
 
 
