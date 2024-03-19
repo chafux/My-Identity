@@ -9,7 +9,7 @@ title = "Amine Chafia - Software Developer / Salesforce"
   firstname = "Amine"
   lastname = "Chafia"
   title = "software developer / salesforce"
-  bio = """Software developer with experience building both the front-end and back-end of web apps as well as mobile applications [**VR5**](https://en.wikipedia.org/wiki/Virtual_reality).
+  bio = """Software developer with experience building both the front-end and back-end of web apps as well as mobile applications [**VR6**](https://en.wikipedia.org/wiki/Virtual_reality).
 
   My passion lies in creating efficient, scalable solutions that empower users and simplify their lives.
 
@@ -29,9 +29,9 @@ title = "Amine Chafia - Software Developer / Salesforce"
 ## Actions Configurations
 [params]
 actions = [
-  {name = "Review my cv", url="xxxx"},
-  {name = "ask me anything", url="themes/layouts/partials/under-construction.html"},
-  {name = "Visit my blog", url="xxx"}
+  {name = "Review my cv", url="##"},
+  {name = "ask me anything", url="##"},
+  {name = "Visit my blog", url="##"}
 ]
 
 
