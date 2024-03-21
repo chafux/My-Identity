@@ -9,11 +9,11 @@ title = "Amine Chafia - Software Developer / Salesforce"
   firstname = "Amine"
   lastname = "Chafia"
   title = "software developer / salesforce"
-  bio = """Software developer with experience building both the front-end and back-end of web apps as well as mobile applications.
+  bio = """Software developer with experience building both the front-end and back-end of web apps as well as mobile applications [**VR**].
 
   My passion lies in creating efficient, scalable solutions that empower users and simplify their lives.
 
-  Beyond code, I'm deeply interested in emerging technologies. Whether it's blockchain, machine learning, or cloud-native architectures, I'm always exploring [**VR**](https://en.wikipedia.org/wiki/Virtual_reality).
+  Beyond code, I'm deeply interested in emerging technologies. Whether it's blockchain, machine learning, or cloud-native architectures, I'm always exploring.
   """
 ## Contacts Configurations
 [params.contacts]
