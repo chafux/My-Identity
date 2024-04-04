@@ -8,8 +8,8 @@ title = "Amine Chafia - Software Developer / Salesforce"
   portrait = "/images/profile.png"
   firstname = "Amine"
   lastname = "Chafia"
-  title = "software developer / salesforce"
-  bio = """Software developer with experience building both the front-end and back-end of web apps as well as mobile applications [**VR4**].
+  title = "software developer"
+  bio = """Software developer with experience building both the front-end and back-end of web applications.
 
   My passion lies in creating efficient, scalable solutions that empower users and simplify their lives.
 
@@ -27,7 +27,7 @@ title = "Amine Chafia - Software Developer / Salesforce"
 ## Actions Configurations
 [params]
 actions = [
-  {name = "Review my cv", url="xx"}
+  
 ]
 
 
