@@ -1,6 +1,6 @@
 theme = "awesome-identity"
 baseURL = "https://chafux.com"
-title = "Amine Chafia - Software Developer / Salesforce"
+title = "Amine Chafia - Software Developer"
 
 
 ## Profile Configurations
@@ -9,11 +9,9 @@ title = "Amine Chafia - Software Developer / Salesforce"
   firstname = "Amine"
   lastname = "Chafia"
   title = "software developer"
-  bio = """Software developer with experience building both the front-end and back-end of web applications.
+  bio = """I am building my software development skills through practical projects and continuous learning.
 
-  My passion lies in creating efficient, scalable solutions that empower users and simplify their lives.
-
-  Beyond code, I'm deeply interested in emerging technologies. Whether it's blockchain, machine learning, or cloud-native architectures, I'm always exploring...
+  I focus on writing clear, maintainable code and understanding the problems I am trying to solve.
   """
 ## Contacts Configurations
 [params.contacts]
